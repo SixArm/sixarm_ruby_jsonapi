@@ -1,6 +1,6 @@
 # SixArm.com » Ruby » <br> JSON API helpers for jsonapi.org
 
-[![Code Climate](https://codeclimate.com/github/SixArm/sixarm_ruby_xid/badges/gpa.svg)](https://codeclimate.com/github/SixArm/sixarm_ruby_xid)
+[![Code Climate](https://codeclimate.com/github/SixArm/sixarm_ruby_jsonapi/badges/gpa.svg)](https://codeclimate.com/github/SixArm/sixarm_ruby_jsonapi)
 [![Build Status](https://travis-ci.org/SixArm/sixarm_ruby_jsonapi.png)](https://travis-ci.org/SixArm/sixarm_ruby_jsonapi)
 
 * Doc: <http://sixarm.com/sixarm_ruby_jsonapi/doc>
