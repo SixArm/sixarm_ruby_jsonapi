@@ -1,4 +1,4 @@
-# SixArm.com » Ruby » <br> JSON API is for the JSON API standard (jsonapi.org)
+# SixArm.com » Ruby » <br> JSON API helpers for jsonapi.org
 
 [![Code Climate](https://codeclimate.com/github/SixArm/sixarm_ruby_jsonapi.png)](https://codeclimate.com/github/SixArm/sixarm_ruby_jsonapi)
 [![Build Status](https://travis-ci.org/SixArm/sixarm_ruby_jsonapi.png)](https://travis-ci.org/SixArm/sixarm_ruby_jsonapi)
