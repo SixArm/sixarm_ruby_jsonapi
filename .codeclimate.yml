@@ -4,3 +4,4 @@ languages:
 exclude_paths:
   - "coverage/*"
   - "doc/*"
+  - "test/*"
