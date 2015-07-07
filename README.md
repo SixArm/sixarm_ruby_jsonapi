@@ -46,8 +46,3 @@ To enable high security for all our gems:
 To install with high security:
 
     gem install sixarm_ruby_jsonapi --trust-policy HighSecurity
-
-
-## Changes
-
-* 2015-05-22 1.0.0 Publish
