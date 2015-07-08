@@ -2,17 +2,11 @@
 
 Gem::Specification.new do |s|
 
-  SOURCES          = [
-    'error'
-  ]
-
-  TESTERS          = [
-  ]
-
   s.name           = "sixarm_ruby_jsonapi"
   s.summary        = "SixArm.com » Ruby » JSON API helps implment jsonapi.org."
   s.description    = "Provides utility classes that work well with http://jsonapi.org for data exchange."
-  s.version        = "1.0.0"
+  s.version        = "1.0.1"
+
   s.author         = "SixArm"
   s.email          = "sixarm@sixarm.com"
   s.homepage       = "http://sixarm.com/"
@@ -25,11 +19,19 @@ Gem::Specification.new do |s|
   s.require_path   = "lib"
   s.has_rdoc       = true
 
-  top_files        = [".gemtest", "CONTRIBUTING.md", "Rakefile", "README.md", "VERSION"]
-  lib_files        = ["lib/#{s.name}.rb"] + SOURCES.map{|x| "lib/#{s.name}/#{x}.rb"}
-  test_files       = ["test/#{s.name}_test.rb"] + SOURCES.map{|x| "test/#{s.name}_test/#{x}_test.rb"} + TESTERS.map{|x| "test/#{s.name}_test/#{x}"}
+  s.files = [
+    ".gemtest",
+    "CONTRIBUTING.md",
+    "Rakefile",
+    "README.md",
+    "VERSION",
+    "lib/sixarm_ruby_jsonapi.rb",
+    "lib/sixarm_ruby_jsonapi/error.rb",
+  ]
 
-  s.files          = top_files + lib_files + test_files
-  s.test_files     = test_files
+  s.test_files = [
+    "test/sixarm_ruby_jsonapi_test.rb",
+    "test/sixarm_ruby_jsonapi_test/error_test.rb",
+  ]
 
 end
