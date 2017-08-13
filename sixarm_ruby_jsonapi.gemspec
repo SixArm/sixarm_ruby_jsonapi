@@ -3,7 +3,7 @@
 Gem::Specification.new do |s|
 
   s.name           = "sixarm_ruby_jsonapi"
-  s.summary        = "SixArm.com » Ruby » JSON API helps implment jsonapi.org."
+  s.summary        = "SixArm.com → Ruby → JSON API helps implment jsonapi.org."
   s.description    = "Provides utility classes that work well with http://jsonapi.org for data exchange."
   s.version        = "1.0.1"
 
