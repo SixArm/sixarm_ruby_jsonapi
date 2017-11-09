@@ -1,6 +1,6 @@
 # SixArm.com » Ruby » <br> JSON API helpers for jsonapi.org
 
-<!--HEADER-OPEN-->
+<!--header-open-->
 
 [![Code Climate](https://codeclimate.com/github/SixArm/sixarm_ruby_jsonapi.git.png)](https://codeclimate.com/github/SixArm/sixarm_ruby_jsonapi.git)
 [![Build Status](https://travis-ci.org/SixArm/sixarm_ruby_jsonapi.git.png)](https://travis-ci.org/SixArm/sixarm_ruby_jsonapi.git)
@@ -13,7 +13,7 @@
 * License: See LICENSE.md file.
 * Helping: See CONTRIBUTING.md file.
 
-<!--HEADER-SHUT-->
+<!--header-shut-->
 
 
 ## Introduction
@@ -27,7 +27,7 @@ For docs go to <http://sixarm.com/sixarm_ruby_jsonapi/doc>
 Want to help? We're happy to get pull requests.
 
 
-<!--INSTALL-OPEN-->
+<!--install-opent-->
 
 ## Install
 
@@ -49,4 +49,4 @@ To require the gem in your code:
 
     require "sixarm_ruby_jsonapi"
 
-<!--INSTALL-SHUT-->
+<!--install-shut-->
