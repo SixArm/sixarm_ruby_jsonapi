@@ -2,7 +2,7 @@
 
 <!--header-open-->
 
-[![Code Climate](https://codeclimate.com/github/SixArm/sixarm_ruby_jsonapi.git.png)](https://codeclimate.com/github/SixArm/sixarm_ruby_jsonapi.git)
+[![Code Climate Maintainability](https://api.codeclimate.com/v1/badges/$id/maintainability)](https://codeclimate.com/github/SixArm/$dir/maintainability)
 [![Build Status](https://travis-ci.org/SixArm/sixarm_ruby_jsonapi.git.png)](https://travis-ci.org/SixArm/sixarm_ruby_jsonapi.git)
 
 * Git: <https://github.com/sixarm/sixarm_ruby_jsonapi.git>
